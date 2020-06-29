@@ -1,3 +1,4 @@
 def first_challenge
-   epic_tradgedy = {}
+   epic_tradgedy = { :montague => {}, :capulet => {}
+   }
 end
